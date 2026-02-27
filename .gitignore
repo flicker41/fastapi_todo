@@ -1,0 +1,4 @@
+app/.env
+todo.db
+app/__pycache__/
+venv/
